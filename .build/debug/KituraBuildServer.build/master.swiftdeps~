@@ -1,0 +1,5 @@
+version: "Apple Swift version 3.1 (swiftlang-802.0.53 clang-802.0.42)"
+options: "1a9787022cd34d221e41ab4dd583c0ba"
+build_time: [551993173, 961405000]
+inputs:
+  "/Users/karl/Projects/Private/Backend/kiturabuildserver/Sources/main.swift": [551993159, 0]

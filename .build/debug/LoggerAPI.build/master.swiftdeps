@@ -1,0 +1,5 @@
+version: "Apple Swift version 3.1 (swiftlang-802.0.53 clang-802.0.42)"
+options: "d10c60bfc99850e32abb87cd400df678"
+build_time: [551991520, 384584000]
+inputs:
+  "/Users/karl/Projects/Private/Backend/kiturabuildserver/.build/checkouts/LoggerAPI.git--6449715459278086880/Sources/LoggerAPI/Logger.swift": [551989025, 0]

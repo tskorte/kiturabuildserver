@@ -1,0 +1,7 @@
+version: "Apple Swift version 3.1 (swiftlang-802.0.53 clang-802.0.42)"
+options: "eae4eac51b561cabe85f0fc62de46afa"
+build_time: [551991520, 382805000]
+inputs:
+  "/Users/karl/Projects/Private/Backend/kiturabuildserver/.build/checkouts/BlueSocket.git-3162807777605905816/Sources/Socket.swift": [551989025, 0]
+  "/Users/karl/Projects/Private/Backend/kiturabuildserver/.build/checkouts/BlueSocket.git-3162807777605905816/Sources/SocketProtocols.swift": [551989025, 0]
+  "/Users/karl/Projects/Private/Backend/kiturabuildserver/.build/checkouts/BlueSocket.git-3162807777605905816/Sources/SocketUtils.swift": [551989025, 0]

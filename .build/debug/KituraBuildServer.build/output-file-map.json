@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/Users/karl/Projects/Private/Backend/kiturabuildserver/.build/debug/KituraBuildServer.build/master.swiftdeps"
+  },
+  "/Users/karl/Projects/Private/Backend/kiturabuildserver/Sources/main.swift": {
+    "dependencies": "/Users/karl/Projects/Private/Backend/kiturabuildserver/.build/debug/KituraBuildServer.build/main.d",
+    "object": "/Users/karl/Projects/Private/Backend/kiturabuildserver/.build/debug/KituraBuildServer.build/main.swift.o",
+    "swiftmodule": "/Users/karl/Projects/Private/Backend/kiturabuildserver/.build/debug/KituraBuildServer.build/main~partial.swiftmodule",
+    "swift-dependencies": "/Users/karl/Projects/Private/Backend/kiturabuildserver/.build/debug/KituraBuildServer.build/main.swiftdeps"
+  }
+}

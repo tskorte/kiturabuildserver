@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Sources/main.swift"
+            timestampString = "520369045.897073"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Kitura.RouterRequest, Kitura.RouterResponse, () -&gt; ()) -&gt; () in KituraBuildServer"
+                  moduleName = "KituraBuildServer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/karl/Projects/Private/Backend/kiturabuildserver/Sources/main.swift"
+                  timestampString = "520368308.861356"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "271">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (__C.Process) -&gt; () in closure #1 (Kitura.RouterRequest, Kitura.RouterResponse, () -&gt; ()) -&gt; () in KituraBuildServer"
+                  moduleName = "KituraBuildServer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/karl/Projects/Private/Backend/kiturabuildserver/Sources/main.swift"
+                  timestampString = "520368308.864009"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "22">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

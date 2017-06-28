@@ -1,0 +1,5 @@
+version: "Apple Swift version 3.1 (swiftlang-802.0.53 clang-802.0.42)"
+options: "62964b178c1bedcf157e969216897256"
+build_time: [551991520, 383575000]
+inputs:
+  "/Users/karl/Projects/Private/Backend/kiturabuildserver/.build/checkouts/Kitura-TemplateEngine.git--5059963620657797085/Sources/KituraTemplateEngine/TemplateEngine.swift": [551989026, 0]

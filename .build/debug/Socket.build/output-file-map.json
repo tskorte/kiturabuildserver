@@ -1,0 +1,23 @@
+{
+  "": {
+    "swift-dependencies": "/Users/karl/Projects/Private/Backend/kiturabuildserver/.build/debug/Socket.build/master.swiftdeps"
+  },
+  "/Users/karl/Projects/Private/Backend/kiturabuildserver/.build/checkouts/BlueSocket.git-3162807777605905816/Sources/Socket.swift": {
+    "dependencies": "/Users/karl/Projects/Private/Backend/kiturabuildserver/.build/debug/Socket.build/Socket.d",
+    "object": "/Users/karl/Projects/Private/Backend/kiturabuildserver/.build/debug/Socket.build/Socket.swift.o",
+    "swiftmodule": "/Users/karl/Projects/Private/Backend/kiturabuildserver/.build/debug/Socket.build/Socket~partial.swiftmodule",
+    "swift-dependencies": "/Users/karl/Projects/Private/Backend/kiturabuildserver/.build/debug/Socket.build/Socket.swiftdeps"
+  },
+  "/Users/karl/Projects/Private/Backend/kiturabuildserver/.build/checkouts/BlueSocket.git-3162807777605905816/Sources/SocketProtocols.swift": {
+    "dependencies": "/Users/karl/Projects/Private/Backend/kiturabuildserver/.build/debug/Socket.build/SocketProtocols.d",
+    "object": "/Users/karl/Projects/Private/Backend/kiturabuildserver/.build/debug/Socket.build/SocketProtocols.swift.o",
+    "swiftmodule": "/Users/karl/Projects/Private/Backend/kiturabuildserver/.build/debug/Socket.build/SocketProtocols~partial.swiftmodule",
+    "swift-dependencies": "/Users/karl/Projects/Private/Backend/kiturabuildserver/.build/debug/Socket.build/SocketProtocols.swiftdeps"
+  },
+  "/Users/karl/Projects/Private/Backend/kiturabuildserver/.build/checkouts/BlueSocket.git-3162807777605905816/Sources/SocketUtils.swift": {
+    "dependencies": "/Users/karl/Projects/Private/Backend/kiturabuildserver/.build/debug/Socket.build/SocketUtils.d",
+    "object": "/Users/karl/Projects/Private/Backend/kiturabuildserver/.build/debug/Socket.build/SocketUtils.swift.o",
+    "swiftmodule": "/Users/karl/Projects/Private/Backend/kiturabuildserver/.build/debug/Socket.build/SocketUtils~partial.swiftmodule",
+    "swift-dependencies": "/Users/karl/Projects/Private/Backend/kiturabuildserver/.build/debug/Socket.build/SocketUtils.swiftdeps"
+  }
+}
